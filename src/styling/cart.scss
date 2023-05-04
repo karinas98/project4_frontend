@@ -1,0 +1,30 @@
+.cart {
+  display: flex;
+  margin: 3em;
+  height: 80vh;
+  gap: 10em;
+}
+
+.shopping-cart {
+  width: 50%;
+}
+.cart-summary {
+  width: 40%;
+  padding: 2em;
+  background-color: gray;
+  color: white;
+}
+.cart-card {
+  display: flex;
+  flex-direction: column;
+}
+.item-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.result {
+  display: flex;
+  justify-content: space-between;
+  border-top: 2px solid white;
+}

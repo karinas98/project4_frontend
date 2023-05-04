@@ -1,0 +1,62 @@
+.main-form {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    url("src/assets/Mural-stock.png");
+  background-size: cover;
+  height: 700px;
+  position: relative;
+}
+.foreground {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50vw;
+}
+form {
+  width: 85%;
+  margin-top: 30px;
+}
+.form-title {
+  font-size: 3.2em;
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+  color: white;
+  text-align: center;
+}
+.btn-nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 40px;
+  align-items: baseline;
+}
+.switch-auth {
+  color: white;
+  font-weight: 600;
+}
+.switch-auth:hover {
+  color: yellowgreen;
+}
+
+@media (max-width: 1200px) {
+  .form-title {
+    font-size: 2.8em;
+  }
+  .btn {
+    font-size: 15px !important;
+  }
+  .switch-auth {
+    font-size: 15px;
+  }
+}
+@media (max-width: 850px) {
+  .form-title {
+    font-size: 2.3em;
+  }
+  .btn {
+    font-size: 12px !important;
+  }
+  .switch-auth {
+    font-size: 12px;
+  }
+}

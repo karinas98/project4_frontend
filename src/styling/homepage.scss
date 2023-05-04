@@ -1,0 +1,37 @@
+.homepage {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  justify-content: space-around;
+}
+
+.left-home {
+  width: 40%;
+  padding-left: 40px;
+}
+
+.right-home {
+  width: 40%;
+  padding-right: 30px;
+  overflow-x: hidden;
+}
+.home-title {
+  font-size: 3.5em;
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+}
+.home-desc {
+  font-size: 1.2em;
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-bottom: 2em;
+}
+.home-btn {
+  padding: 15px 20px !important;
+}
+
+@media (max-width: 640px) {
+  .home-title {
+    font-size: 2.8em;
+  }
+}

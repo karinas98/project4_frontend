@@ -1,0 +1,53 @@
+nav {
+  display: flex;
+  height: 15vh;
+  justify-content: space-around;
+}
+.main-nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+.init-nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 35%;
+  justify-content: flex-end;
+}
+.right-nav {
+  display: flex;
+  gap: 20px;
+  align-items: flex-end;
+  margin-right: 4em;
+}
+
+.navtitle,
+.nav-feed,
+.navicons {
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
+.navtitle {
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 25px;
+}
+.navicons {
+  gap: 20px;
+}
+.navbar {
+  width: 100%;
+}
+.nav-feed {
+  margin-left: 4em;
+}
+
+.hamburger {
+  display: none;
+}
+
+@media (max-width: 767px) {
+}
