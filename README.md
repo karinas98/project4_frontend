@@ -203,5 +203,14 @@ const userItems = {
   );
   ```
   ## Final Look
+  ![](https://github.com/karinas98/project4_frontend/blob/d8c5925078799e9a8f3d91c99b76f1a00b1cc737/Screenshot%202023-06-02%20at%2011.25.36.png)
+  ![](https://github.com/karinas98/project4_frontend/blob/d8c5925078799e9a8f3d91c99b76f1a00b1cc737/Screenshot%202023-06-02%20at%2011.25.47.png)
+  ![](https://github.com/karinas98/project4_frontend/blob/d8c5925078799e9a8f3d91c99b76f1a00b1cc737/Screenshot%202023-06-02%20at%2011.25.58.png)
+  ![](https://github.com/karinas98/project4_frontend/blob/d8c5925078799e9a8f3d91c99b76f1a00b1cc737/Screenshot%202023-06-02%20at%2011.26.07.png)
+  ![](https://github.com/karinas98/project4_frontend/blob/d8c5925078799e9a8f3d91c99b76f1a00b1cc737/Screenshot%202023-06-02%20at%2011.26.25.png)
+  
+ ## Areas of Improvement
+The next step for this project is to add a working delete functionality in both the cart and the favourite page. I would also like to create a functionality where all users have access to the creator’s profiles and can see their individual products without having the access to update and delete. I would also like to improve the cart page and make it more like a real e-commerce checkout page.
+
   
   
