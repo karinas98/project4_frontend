@@ -23,3 +23,15 @@ What I wanted to achieve with this wireframe is to create a full prototype to un
 
 ![](https://github.com/karinas98/project4_frontend/blob/9ac4d69b9d5ea96c90e4ae55a6f4a01d7bd9cc75/Screenshot%202023-06-02%20at%2011.06.38.png)
 
+## Road Map
+
+### Backend
+The first part of this project was to build a Python API backend. I first planned out the apps and models for each that I would be needing for this project. That entailed an app for products, categories, reviews, favourites, cart and JWT authentication.  For each of these apps created, I then tested out with Django and Postman if my data could be accessed and created. 
+
+### Front-end
+
+Once the Backend was ready, I then started planning out my front-end. My first step was establishing all the necessary routes and navbar needed throughout my application and making sure that they all work. 
+
+Once that was done, I got started on adding the navbar to all the routes. 
+Since this is an exclusive site and you need to be registered or logged in to access the content. I made it so that all navigation icons navigate to the registration page if a token is not found and if so, a logout and feed is added. 
+
