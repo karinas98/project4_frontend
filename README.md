@@ -21,5 +21,5 @@ For this project, I wanted to find an idea that I can build on and easily increa
 ## Planning & Wireframing
 What I wanted to achieve with this wireframe is to create a full prototype to understand the user experience and all functionalities. By doing so, I could then take it page by page and really grasp what needs to happen. 
 
-![](https://github.com/karinas98/karinas98.github.io/blob/main/Screenshot%202023-01-23%20at%2017.15.56.png)
+![](https://github.com/karinas98/project4_frontend/blob/9ac4d69b9d5ea96c90e4ae55a6f4a01d7bd9cc75/Screenshot%202023-06-02%20at%2011.06.38.png)
 
