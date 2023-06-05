@@ -13,7 +13,7 @@ Build a full stack application by making my own backend and front-end
 Use Python Django API & using Django REST Framework to serve the data from Postgres database
 Consume my API with a separate front-end, built with React
 Implement thoughtful user wireframes
-Complete & Launch a final & functioning product
+Complete & Launch a final & functioning product.
 
 ## Project Overview
 For this project, I wanted to find an idea that I can build on and easily increase its complexity. I’ve always had some interest towards how to build an e-commerce site and this project is a starting point for that. My idea around the theme was to give a voice and space to upcoming artists and designers to show their work and potentially sell a few pieces to those that value quality handmade products. This is why the application is an exclusive site that you need to register and create a profile for. Once that is done, you are able to create a new ad, write product reviews, see your favourite’s list and add items to the cart. You also have a personal profile where all your created products can be found and where you can delete and update your listing.
