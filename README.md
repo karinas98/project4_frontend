@@ -2,10 +2,10 @@
 
 # Artist & Design E-Commerce - Shop & Buy
 
-##Deployment Link
+## Deployment Link
 https://shop-and-buy.netlify.app
 
-##Timeline
+## Timeline
 3 Weeks - Solo Project
 
 ## Project Brief
