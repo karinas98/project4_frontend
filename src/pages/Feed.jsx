@@ -59,7 +59,7 @@ const Feed = () => {
           <h4>
             <strong>Explore By Category</strong>
           </h4>
-          <ul>
+          <ul className="list">
             <li className="category-list" onClick={defaultData}>
               All
             </li>

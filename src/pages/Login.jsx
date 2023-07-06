@@ -4,6 +4,7 @@ import { DEV_API_URL } from "../consts-data";
 import { Link, useNavigate } from "react-router-dom";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
+import backImage from "../assets/D5V0zmiUUAM7f02.jpeg";
 
 const Login = () => {
   const [errors, setErrors] = useState([]);

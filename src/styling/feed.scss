@@ -22,10 +22,16 @@
   margin: 6em 5em;
 }
 .feed-body {
-  display: flex;
-  justify-content: space-around;
+  // display: flex;
+  // justify-content: space-around;
   margin-top: 5em;
   gap: 3em;
+}
+.list {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 4em !important;
+  margin-top: 2em !important;
 }
 .card {
   border: none !important;

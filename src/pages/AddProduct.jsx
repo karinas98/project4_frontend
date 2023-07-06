@@ -35,20 +35,21 @@ const AddProduct = () => {
         console.log(err);
       }
     };
-    console.log(getCategories);
 
     fetchData();
   }, []);
-
+  console.log(getCategories);
   const navigate = useNavigate();
   const onChange = (e) => {
     setCreateProduct({ ...createProduct, [e.target.name]: e.target.value });
     setButtonActive(true);
+    console.log(createProduct);
   };
 
   const handleFileChange = (e) => {
     e.preventDefault();
     setFile(e.target.files[0]);
+    console.log(file);
   };
   const handleCreateUser = async (e) => {
     e.preventDefault();

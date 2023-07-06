@@ -4,6 +4,7 @@ import axios from "axios";
 import { DEV_API_URL } from "../consts-data";
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
+import backgroundImage from "../assets/Mural-stock.png";
 
 const Register = () => {
   const [registerData, setRegisterData] = useState({
