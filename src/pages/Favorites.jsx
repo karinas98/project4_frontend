@@ -62,7 +62,7 @@ const Favorites = () => {
   console.log(myList);
   return (
     <div className="favorites">
-      <ul className="list">
+      <ul className="fav-list">
         {products.map((elem) => (
           <div className="container-list">
             <CloudinaryImage img_url={elem.img_url} />

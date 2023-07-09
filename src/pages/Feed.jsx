@@ -48,7 +48,12 @@ const Feed = () => {
     <div className="feed">
       <section className="feed-header">
         <h1 className="feed-title">Create what inspires you.</h1>
-        <Button className="form-btn" variant="primary" type="button" size="lg">
+        <Button
+          className="form-btn create-btn"
+          variant="primary"
+          type="button"
+          size="lg"
+        >
           <Link className="button" to="/addproduct">
             Create Ad
           </Link>
